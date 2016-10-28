@@ -88,6 +88,7 @@
 ```
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
+![](https://github.com/JUBJIBPIYAPATH/LAB-02/blob/master/22.PNG?raw=true)
 
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
